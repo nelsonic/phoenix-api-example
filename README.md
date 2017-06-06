@@ -3,7 +3,8 @@
 > This app follows the following tutorial: 
 https://dreamconception.com/tech/phoenix-full-fledged-api-in-five-minutes <br />
 > But sadly, I'm seeing an error ...
-raised question on: https://elixirforum.com/t/phoenix-v1-3-api-example-error-myapp-users-user---struct---0-is-undefined-cannot-expand-struct-myapp-users-user/5776
+raised question on: https://elixirforum.com/t/phoenix-v1-3-api-example-error-myapp-users-user---struct---0-is-undefined-cannot-expand-struct-myapp-users-user/5776 <br />
+> Tweeted to the author of the post/tutorial: https://twitter.com/nelsonic/status/871882973523607553
 
 
 To start your Phoenix server:
